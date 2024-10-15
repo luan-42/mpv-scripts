@@ -3,7 +3,7 @@ Saiba mais em [Vocabulário++](https://luan-42.github.io/vocabulario-landing-pag
 
 ## Pré-requisitos
 
-* Baixe o mpv player, recomendo as [build do Shinchiro](https://sourceforge.net/projects/mpv-player-windows/files/).
+* Baixe o mpv player, recomendo as [builds do Shinchiro](https://sourceforge.net/projects/mpv-player-windows/files/).
 * Instale o ffmpeg através do WinGet com o seguinte comando.
 
 ```sh
